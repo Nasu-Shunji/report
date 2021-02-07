@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b3776ad-f147-4b1b-a5fc-09936f84acf4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1o8HYzBVwpq2hgGouYyw66tAX4z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b3776ad-f147-4b1b-a5fc-09936f84acf4" name="Default Changelist" comment="" />
+      <created>1612661348736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612661348736</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1612661397984">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="510" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1366.706@0.23.1366.706" timestamp="1612661397984" />
+    <state x="250" y="53" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1612661370364">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="250" y="53" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1366.706@0.23.1366.706" timestamp="1612661370364" />
+    <state x="525" y="181" key="AndroidProcessChooserDialog" timestamp="1612661753108">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="525" y="181" key="AndroidProcessChooserDialog/0.23.1366.706@0.23.1366.706" timestamp="1612661753108" />
+    <state x="369" y="23" width="997" height="706" key="SettingsEditor" timestamp="1612661773981">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="369" y="23" width="997" height="706" key="SettingsEditor/0.23.1366.706@0.23.1366.706" timestamp="1612661773981" />
+    <state x="337" y="209" width="651" height="399" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1612661781132">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="337" y="209" width="651" height="399" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1366.706@0.23.1366.706" timestamp="1612661781132" />
+    <state x="327" y="184" key="run.anything.popup" timestamp="1612661714649">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="327" y="184" key="run.anything.popup/0.23.1366.706@0.23.1366.706" timestamp="1612661714649" />
+  </component>
+</project>
